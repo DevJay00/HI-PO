@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+    align-content: center;
+    flex-wrap: nowrap;
+}
+button{
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
